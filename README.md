@@ -5,8 +5,11 @@ This project builds on the concept of "Within-Manifold" vs. "Outside-Manifold" l
 
 **Key Investigation Areas:**
 Q1-Q2: Training dynamics, loss curves, and the impact of connection density on performance.
+
 Q3-Q4: Connectivity sparsity and the role of network graph properties.
+
 Q5-Q6: Influence of task complexity on manifolds and decoder-only learning dynamics.
+
 Q7-Q9: Advanced extensions into manifold realignment and co-evolutionary representations.
 
 **Project Overview** This project investigates how Recurrent Neural Networks (RNNs) develop internal representations to solve complex motor tasks. By characterizing the population geometry of neural manifolds, we aim to understand the co-evolution of neural structure and functional output. This work is a foundational step toward the NeuroRecovery framework, designed to optimize Brain-Computer Interfaces (BCIs) for clinical motor rehabilitation. Key Research Aims
