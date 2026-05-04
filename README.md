@@ -1,5 +1,5 @@
 **Manifold-Driven-Plasticity**
-Replication and extension of Feulner et al. 2020 — exploring how RNN connectivity structure shapes neural manifolds and motor learning dynamics Replication of Feulner et al. 2020.
+Replication and extension of Feulner et al. 2020, exploring how RNN connectivity structure shapes neural manifolds and motor learning dynamics Replication of Feulner et al. 2020.
 ### **Theoretical Foundation**
 This project builds on the concept of "Within-Manifold" vs. "Outside-Manifold" learning established by **Sadtler et al. (2014)**.
 
